@@ -32,10 +32,5 @@ The pipeline performs the following tasks:
 - scikit-learn
 - NumPy
 - Jupyter Notebook
-- Joblib
 - KMeans Clustering
-
----
-
-## 📁 Project Structure
 
